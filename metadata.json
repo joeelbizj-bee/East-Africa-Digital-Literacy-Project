@@ -1,0 +1,7 @@
+{
+  "name": "TechForAll Research Dashboard",
+  "description": "A sophisticated digital workspace for NGO Research Assistants to identify, organize, and analyze digital literacy initiatives in East Africa. Built with real-time research capabilities and data management tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
